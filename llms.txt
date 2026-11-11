@@ -1,0 +1,8 @@
+# @sharadox/prettier-configuration-web-library
+
+> Shared Prettier configuration: Prettier defaults with printWidth 120.
+
+- Install: `pnpm add -D prettier @sharadox/prettier-configuration-web-library`
+- Use in prettier.config.mjs: `export { configuration as default } from "@sharadox/prettier-configuration-web-library/configuration";`
+- Extend: `{ ...configuration, singleQuote: true }`
+- Licence: Sharadox Open Source Licence 0.1.0
