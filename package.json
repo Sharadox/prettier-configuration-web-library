@@ -1,6 +1,6 @@
 {
   "name": "@sharadox/prettier-configuration-web-library",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The shared Prettier configuration for Sharadox projects (and anyone who likes 120-character lines).",
   "private": false,
   "license": "SEE LICENSE IN LICENCA.md",
@@ -25,7 +25,8 @@
     "LICENCA.md",
     "LICENSE.md",
     "NOTICE.md",
-    "llms.txt"
+    "llms.txt",
+    "CHANGELOG.md"
   ],
   "sideEffects": false,
   "engines": {
